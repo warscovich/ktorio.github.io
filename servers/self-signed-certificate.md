@@ -8,7 +8,7 @@ permalink: /servers/self-signed-certificate.html
 
 Ktor allows you to create and use self-signed certificates for serving HTTPS or HTTP/2 requests.
 
-{% include artifact.html kind="function" method="io.ktor.network.tls.certificates.generateCertificate" artifact="io.ktor:ktor-network-tls:$ktor_version" %}
+{% include artifact.html kind="function" method="io.ktor.network.tls.certificates.generateCertificate" artifact="io.ktor:ktor-network-tls-certificates:$ktor_version" %}
 
 **Table of contents:**
 
